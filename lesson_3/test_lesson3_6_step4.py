@@ -41,4 +41,4 @@ def test_login(browser, index):
 
     finally:
         # успеваем скопировать код за 30 секунд
-        time.sleep(25)
+        time.sleep(30)
